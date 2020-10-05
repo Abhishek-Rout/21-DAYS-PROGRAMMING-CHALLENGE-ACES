@@ -1,6 +1,7 @@
 # 21-DAYS-PROGRAMMING-CHALLENGE-ACES
-   CP, EXPLORING NEW THINGS 
+   CP, Exploring New Things, Web Development
 
 ### DAY 1:
   - Solved leetcode code problem 
-  - Solving codechef october challenge problems
+  - Solved codechef october challenge problems
+  - Wrote some articles on GFG
