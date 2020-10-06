@@ -7,5 +7,5 @@
   - Wrote some articles on GFG
   
 ### DAY 2:
-  - Solved leetcode problem - 5th Oct
+  - Solved leetcode problem - 5th & 6th Oct 
   - Solving codechef october challenge problems
