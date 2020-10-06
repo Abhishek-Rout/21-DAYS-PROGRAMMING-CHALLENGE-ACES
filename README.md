@@ -2,6 +2,10 @@
    CP, Exploring New Things, Web Development
 
 ### DAY 1:
-  - Solved leetcode code problem 
-  - Solved codechef october challenge problems
+  - Solved leetcode problem - 4th Oct
+  - Solving codechef october challenge problems
   - Wrote some articles on GFG
+  
+### DAY 2:
+  - Solved leetcode problem - 5th Oct
+  - Solving codechef october challenge problems
