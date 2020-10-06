@@ -9,3 +9,4 @@
 ### DAY 2:
   - Solved leetcode problem - 5th & 6th Oct 
   - Solving codechef october challenge problems
+  - Completed my GFG article on "How to Match Regions in Strings in Java?"
