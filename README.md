@@ -19,4 +19,4 @@
 ### DAY $:
    - Solved leetcode problem - 8th Oct
    - Solved some problems from GFG
-   - Made a CSS web page -
+   - Starting making a new webpage - "Superhero Page"
