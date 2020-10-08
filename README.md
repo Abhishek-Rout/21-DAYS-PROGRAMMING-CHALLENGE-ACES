@@ -15,3 +15,8 @@
    - Made a CSS web page - https://abhishek-rout.github.io/Abhishek%20CSS/55/
    - Solved leetcode problem - 7th Oct
    - Started Solving problems on GFG
+
+### DAY $:
+   - Solved leetcode problem - 8th Oct
+   - Solved some problems from GFG
+   - Made a CSS web page -
