@@ -25,3 +25,8 @@
    - Solved leetcode problem - 9th Oct
    - Solved some problems from GFG
    - Starting making a new webpage - https://abhishek-rout.github.io/Abhishek%20CSS/56/
+
+### DAY 4:
+   - Solved leetcode problem - 10th Oct
+   - Solved some problems from GFG
+   - Starting making a new webpage
