@@ -35,3 +35,8 @@
    - Solved leetcode problem - 11th Oct
    - Solved some problems from GFG
    - Made making a new webpage - https://abhishek-rout.github.io/Abhishek%20CSS/57/
+  
+### DAY 8:
+   - Solved codechef problem 
+   - Solved some problems from GFG
+   - Started making new webpage
