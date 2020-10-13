@@ -42,7 +42,7 @@
    - Started making new webpage
    
 ### DAY 9:
-   - Solved codechef problem 
+   - Solved eetcode problem - 12th Oct
    - Solved some problems from GFG
    - Started making new webpage
 
