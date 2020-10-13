@@ -44,5 +44,5 @@
 ### DAY 9:
    - Solved eetcode problem - 12th Oct
    - Solved some problems from GFG
-   - Started making new webpage
+   - Webpage making in progress
 
