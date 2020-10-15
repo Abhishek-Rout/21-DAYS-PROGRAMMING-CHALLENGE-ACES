@@ -42,7 +42,16 @@
    - Started making new webpage
    
 ### DAY 9:
-   - Solved eetcode problem - 12th Oct
+   - Solved leetcode problem - 12th Oct
    - Solved some problems from GFG
    - Webpage making in progress
 
+### DAY 10:
+   - Solved leetcode problem - 13th Oct
+   - Solved some problems from GFG
+   - Webpage making in progress
+   
+### DAY 11:
+   - Solved leetcode problem - 14th Oct
+   - Solved some problems from GFG
+   - Webpage making in progress
