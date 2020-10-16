@@ -52,6 +52,11 @@
    - Webpage making in progress
    
 ### DAY 11:
-   - Solved leetcode problem - 14th Oct
+   - Solved leetcode problem - 15th Oct
+   - Solved some problems from GFG
+   - Webpage making in progress
+
+### DAY 12:
+   - Solved leetcode problem - 16th Oct
    - Solved some problems from GFG
    - Webpage making in progress
