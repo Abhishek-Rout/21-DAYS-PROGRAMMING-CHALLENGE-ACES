@@ -60,3 +60,8 @@
    - Solved leetcode problem - 16th Oct
    - Solved some problems from GFG
    - Webpage making in progress
+   
+### DAY 13:
+   - Solved leetcode problem - 17th Oct
+   - Solved some problems from GFG
+   - Webpage making in progress
