@@ -65,3 +65,8 @@
    - Solved leetcode problem - 17th Oct
    - Solved some problems from GFG
    - Webpage making in progress
+   
+### DAY 14:
+   - Solved leetcode problem - 18th Oct
+   - Solved some problems from GFG
+   - Solved Google Kickstart 2020 Round G
