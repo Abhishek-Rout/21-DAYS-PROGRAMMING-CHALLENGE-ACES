@@ -73,3 +73,9 @@
    
 ### DAY 15:
    - Solved leetcode problem - 19th Oct
+   
+### DAY 16:
+   - Solved leetcode problem - 20th Oct
+
+### DAY 17:
+   - Solved leetcode problem - 21th Oct
