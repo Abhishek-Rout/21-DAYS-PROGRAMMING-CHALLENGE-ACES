@@ -85,3 +85,6 @@
 
 ### DAY 19:
    - Solved leetcode problem - 23th Oct
+   
+### DAY 20:
+   - Solved leetcode problem - 24th Oct
